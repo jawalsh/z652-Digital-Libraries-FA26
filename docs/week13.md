@@ -1,0 +1,22 @@
+# Week 13: CollectionBuilder: Final project lab
+
+## Summary
+
+This week we will work collaboratively to advance our final projects. Come prepared to put the finishing touches on your CollectionBuilder-based final projects. Try new configuration options, ask questions, and help your fellow students.
+
+## Weekly Learning Objectives
+
+The objective this week is to _implement_ all we have learned this semester to _build_ a compelling and professional digital collection.
+
+## Before class: Readings, resources, and tasks
+
+- Review [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)
+- Review [CollectionBuilder-GH Workshop Tutorial](https://collectionbuilder.github.io/workshop/gh/) _Be aware that some details have may have changed since the Workshop was developed in 2020._
+	
+There will be no discussion this week, but you should come to class prepared with any final questions you have about building your CollectionBuilder site. 
+ 
+## In class
+
+
+
+The rest of class time will be devoted to troubleshooting, working on your final projects, and enhancing your CollectionBuilder project with the configuration and page-building techniques that we have learned the past few weeks. 
