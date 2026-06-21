@@ -5,8 +5,10 @@ Myles Brand Hall (I) 150
 John’s demo CollectionBuilder Sites: [Rock Show](https://jawalsh.github.io/rock-show/), [Rock Show repository](https://github.com/jawalsh/rock-show), [Comic Book Paratexts](https://biblicon.org/cbp/)
 
 
+<!--
 *Associate Instructor:*  Jieli Liu  
 *Office Hours:* Wednesdays 3 pm to 4pm in Jieli’s cubicle in ILS Office area. Also on Zoom (email Jieli for zoom link or see her canvas profile).
+-->
 <!-- Gyuri's demo CollectionBuilder site: [Ecofiction Collection](https://krorange.github.io/ecofiction/), [Ecofiction Collection Repository](https://github.com/krorange/ecofiction/) -->
 <!-- Alex's demo CollectionBuilder site: [Las Novelitas](https://aewingate.github.io/cb_demo/), 
 [Alex's demo CollectionBuilder Repository](https://github.com/aewingate/cb_demo) -->
