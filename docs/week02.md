@@ -1,6 +1,7 @@
-# Week 2: Markdown and Github
+# Week 2: Copyright and Project Feasibility
 
 ## Summary
+
 This week we will learn about Markdown, Git, and Github, technologies that will be used to develop your digital collections in this class and that are generally useful skills for digital and technical information work.
  
 ## Weekly Learning Objectives
