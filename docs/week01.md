@@ -26,12 +26,12 @@ By the end of this week, you should be able to:
 - Course welcome video: **Welcome to Z652: Digital Libraries and Digital Collections**  
   <!-- *(5–8 minutes; link to be provided in Canvas)* -->
 
-The welcome video will introduce the course, explain the semester-long project, and describe how the technical work in the course will be scaffolded.
+The welcome video will introduce the course, explain the semester-long project, and describe  how students will be introduced to the technical work gradually, with each activity building on the previous one.
 
 ### Read and Review
 
 - Course syllabus
-- Final project overview
+- [Final project overview](assignment_final_project.md)
 - CollectionBuilder overview: <https://collectionbuilder.github.io/>
 - Digital Objects
 	- Md. Ashikuzzaman. What is a Digital Object? <https://www.lisedunetwork.com/what-is-a-digital-object/>
@@ -40,8 +40,7 @@ The welcome video will introduce the course, explain the semester-long project, 
 - Library Technology
 	- Norwegian Broadcasting Corporation. [Medieval Helpdesk](https://youtu.be/pQHX-SjgQvQ)
 - Digital collection examples
-	- Explore some of IU’s digital collections: <https://libraries.indiana.edu/digital-collections>
-	- You may also browse another digital collection, archive, exhibit, or digital library of your choice.
+	- Explore some of IU’s digital collections at <https://libraries.indiana.edu/digital-collections> and some [additional examples](digital_collections_examples.md) from other institutions.
 
 ### Tasks
 
