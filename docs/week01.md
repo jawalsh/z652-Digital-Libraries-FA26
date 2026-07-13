@@ -34,13 +34,13 @@ The welcome video will introduce the course, explain the semester-long project, 
 - [Final project overview](assignment_final_project.md)
 - CollectionBuilder overview: <https://collectionbuilder.github.io/>
 - Digital Objects
-	- Md. Ashikuzzaman. What is a Digital Object? <https://www.lisedunetwork.com/what-is-a-digital-object/>
+	- Md. Ashikuzzaman. [What is a Digital Object?](https://www.lisedunetwork.com/what-is-a-digital-object/)
 - Metadata
 	- Southern Illinois University Edwardsville. [The Metadata Librarian Explains Metadata](https://youtu.be/ABF2FvSPVYE)
 - Library Technology
 	- Norwegian Broadcasting Corporation. [Medieval Helpdesk](https://youtu.be/pQHX-SjgQvQ)
 - Digital collection examples
-	- Explore some of IU’s digital collections at <https://libraries.indiana.edu/digital-collections> and some [additional examples](digital_collections_examples.md) from other institutions.
+	- Explore some of [IU’s digital collections](https://libraries.indiana.edu/digital-collections) and some [additional examples](digital_collections_examples.md) from other institutions.
 
 ### Tasks
 
