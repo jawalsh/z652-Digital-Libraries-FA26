@@ -1,4 +1,4 @@
-# Week 1: Introduction to Digital Libraries (asynchronous)
+# Week 1: Introductions; What is a Digital Library?; Digital Objects; Metadata in Interfaces (asynchronous)
 
 ## Summary
 
