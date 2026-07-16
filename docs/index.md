@@ -5,7 +5,7 @@
 {% include_relative header.md %}
 
 # Schedule
-* [Week 1](week01.md) _(2026-08-27)_: Introductions; What is a Digital Library? Digital Objects; Metadata in Interfaces
+* [Week 1](week01.md) _(2026-08-27)_: Introductions; What is a Digital Library?; Digital Objects; Metadata in Interfaces
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week01.html)
 * [Week 2](week02.md) _(2026-09-03)_: Copyright, Public Domain, Rights Statements, and Final Project Scoping 
 	<!-- - [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week02.html) -->
