@@ -1,37 +1,170 @@
-# Week 2: Copyright and Project Feasibility
+# Week 2: Copyright, Public Domain, Rights Statements, and Final Project Scoping
 
 ## Summary
 
-This week we will learn about Markdown, Git, and Github, technologies that will be used to develop your digital collections in this class and that are generally useful skills for digital and technical information work.
- 
+This week introduces the legal and ethical foundations of digital libraries. We will discuss copyright, the public domain, fair use, Creative Commons licenses, and standardized rights statements, with an emphasis on how these concepts affect the creation and sharing of digital collections.
+
+We will also begin planning the semester project. Students will brainstorm potential collection topics, consider the availability of digital materials, and evaluate whether those materials can be legally and ethically included in a public digital collection.
+
+By the end of the week, you should have a preliminary idea for your project and understand the rights issues that may influence its scope.
+
+---
+
 ## Weekly Learning Objectives
-- _Use_ markdown to author a document and generate an HTML version of that document.
-- _Use_ GitHub to create a new repository and add documents to the repository.
 
-## Before class: Readings, Resources, and Tasks
+By the end of this week, you should be able to:
 
-### Digital Libraries
-- <http://en.wikipedia.org/wiki/Digital_library>
-- [Witten, Bainbridge, and Nichols](http://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc): Chapter 1
- 
-### Markdown
-- Gruber, John. “Markdown: Syntax.” _Daring Fireball_. <https://daringfireball.net/projects/markdown/syntax>.
-- Villalobos, Ray. (2015). “Learning Markdown.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-markdown/welcome>
+- Explain the purpose and basic principles of copyright.
+- Distinguish between copyrighted works, public domain materials, and openly licensed content.
+- Describe the role of fair use in libraries, archives, and digital humanities.
+- Interpret Creative Commons licenses and RightsStatements.org rights statements.
+- Evaluate whether materials are appropriate for inclusion in a digital collection.
+- Generate several feasible ideas for the semester digital library project.
+- Identify potential copyright or permissions challenges for a proposed project.
 
-### Git and GitHub 
-- Sylor-Miller, K. & [Evans, J.](https://wizardzines.com) (n.d.). [“Oh Shit, Git!”](https://iu.instructure.com/files/161055437/download?download_frd=1). 
-- Villalobos, Ray. (2021). “Learning Git and GitHub.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-git-and-github-14213624/>
-- Git Basics Episode 1: What is Version Control? <https://git-scm.com/video/what-is-version-control>
-- Git Basics Episode 2: What is Git? <https://git-scm.com/video/what-is-git>
-- Git Basics Episode 3: Get Going with Git <https://git-scm.com/video/get-going>
-- Git Basics Episode 4: Quick Wins with Git <https://git-scm.com/video/quick-wins>
- 
-### Tasks
-- Install Visual Studio Code from <https://code.visualstudio.com> (available for MacOS, Windows, and Linux).
-- Install GitHub Desktop from <https://desktop.github.com> (available for MacOS, Windows, and Linux).
+---
 
-### In-class
-- [slides](https://jawalsh.github.io/Z652_reveal.js/week02.html)
-- [Markdown exercise](assignment_markdown_exercise.md)
-- [GitHub Starter](activity_github_starter.md) activity
-- GitHub/CollectionBuilder homework for [next week](week03.md).
+# Before Class: Readings, Resources, and Tasks
+
+## Readings
+
+### Copyright and Fair Use
+
+Read the following overview from the U.S. Copyright Office:
+
+- **Copyright Basics**
+  <https://www.copyright.gov/circs/circ01.pdf>
+  
+Review the following Cornell University Library resources. You do not need to memorize the details. Focus on understanding the factors that determine whether a work is protected by copyright or is in the public domain.
+
+- [Cornell copyright resource](https://guides.library.cornell.edu/ld.php?content_id=85076027)
+
+- [Cornell copyright resource](https://guides.library.cornell.edu/ld.php?content_id=63936868)
+
+Browse the following resource from the Association of Research Libraries:
+
+- **Code of Best Practices in Fair Use for Academic and Research Libraries**
+  <https://www.arl.org/resources/code-of-best-practices-in-fair-use-for-academic-and-research-libraries/>
+
+### Public Domain
+
+Read:
+
+- **Public Domain Day** (Duke University Center for the Study of the Public Domain)
+  <https://web.law.duke.edu/cspd/publicdomainday/>
+
+Browse:
+
+- **The Public Domain Review**
+  <https://publicdomainreview.org/>
+
+### Creative Commons
+
+Read:
+
+- **About Creative Commons Licenses**
+  <https://creativecommons.org/share-your-work/cclicenses/>
+
+### Rights Statements
+
+Read:
+
+- **RightsStatements.org**
+  <https://rightsstatements.org/>
+
+Pay particular attention to the distinction between:
+
+- Rights Statements (what is known about a work's copyright status)
+- Creative Commons licenses (permissions granted by a rights holder)
+
+---
+
+## Explore
+
+Browse a digital collection that interests you.
+
+Identify:
+
+- What kinds of materials does it contain?
+- Who appears to own the copyright?
+- Does the site provide rights statements or Creative Commons licenses?
+- Could someone legally reuse the materials?
+
+Come prepared to discuss your observations in class.
+
+---
+
+## Begin Thinking About Your Final Project
+
+Start brainstorming possible topics for your semester digital collection.
+
+At this point, you do **not** need to settle on a topic.
+
+Instead, consider:
+
+- What community, organization, or subject interests you?
+- What digital objects might you include?
+- Are those materials already digitized?
+- Would they likely be in the public domain, openly licensed, or require permission?
+
+Bring **two or three possible ideas** to class.
+
+---
+
+# In Class
+
+## Slides
+
+- Week 2: Copyright, Public Domain, Rights Statements, and Final Project Scoping
+
+---
+
+## Topics
+
+- Why copyright matters in digital libraries
+- Copyright fundamentals
+- Public domain
+- Fair use
+- Creative Commons licenses
+- RightsStatements.org
+- Copyright considerations when building digital collections
+- Selecting an appropriate semester project
+
+---
+
+## Activities
+
+### Rights Detective
+
+Working in small groups, examine several digital library collections.
+
+For each collection:
+
+- Locate any rights statement or license.
+- Determine whether the materials are public domain, copyrighted, or openly licensed.
+- Discuss what kinds of reuse would be permitted.
+
+---
+
+### Project Brainstorming Workshop
+
+Students will share possible project ideas in small groups.
+
+For each idea, discuss:
+
+- Is the scope manageable?
+- Are appropriate materials available?
+- What copyright challenges might arise?
+- Could the collection reasonably be completed during the semester?
+
+---
+
+### Whole-Class Discussion
+
+We will conclude by discussing promising project ideas and common copyright questions before students begin preparing their formal project proposals in the coming weeks.
+
+---
+
+## Looking Ahead
+
+Next week we begin working with metadata—the structured information that makes digital collections discoverable, searchable, and interoperable. Copyright determines **what** we can make available; metadata determines **how** users find and understand it.
