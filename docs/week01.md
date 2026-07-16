@@ -1,4 +1,4 @@
-# Week 1: Introduction to Digital Libraries
+# Week 1: Introduction to Digital Libraries (asynchronous)
 
 ## Summary
 
@@ -24,9 +24,13 @@ By the end of this week, you should be able to:
 ### Watch
 
 - Course welcome video: **Welcome to Z652: Digital Libraries and Digital Collections**  
-  <!-- *(5–8 minutes; link to be provided in Canvas)* -->
 
+<!-- *(5–8 minutes; link to be provided in Canvas)* -->
+  
+<!--
+	
 The welcome video will introduce the course, explain the semester-long project, and describe  how students will be introduced to the technical work gradually, with each activity building on the previous one.
+-->
 
 ### Read and Review
 
