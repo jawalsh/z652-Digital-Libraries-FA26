@@ -22,7 +22,7 @@
 * [Week 11](week11.md) _(2026-11-05)_: Text Objects I: XML, Markup, and TEI
 * [Week 12](week12.md) _(2026-11-12)_: Text Objects II: OCR, Character Encoding, and Text Digitization
 * [Week 13](week13.md) _(2026-11-19)_: CollectionBuilder: Configuration, Metadata Integration, and Customization
-* _(2026-11-26)_: Thanksgiving Break 🦃
+* Thanksgiving Break 🦃 _(2026-11-26)_
 * [Week 14](week14.md) _(2026-12-03)_: CollectionBuilder: Deployment, Advanced Features, and Troubleshooting Studio
 * [Week 15](week15.md) _(2026-12-10)_: Final Project Studio, Presentations, and Site Polish
  
