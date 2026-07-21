@@ -2,35 +2,35 @@
 
 ## Summary
 
-This week introduces three foundational technologies that support many
-contemporary digital library and digital humanities projects:
-**Markdown**, **GitHub**, and **static websites**.
+Many contemporary digital library and digital humanities projects are built using a simple but powerful workflow based on plain text, version control, and static web publishing. This week introduces the technologies that make that workflow possible: **Markdown**, **Git**, **GitHub**, and **GitHub Pages**.
 
-Rather than focusing on a particular digital library platform, we'll
-explore why so many digital collections today are built from plain-text
-files stored in version control and published as static websites.
-Students will learn basic Markdown syntax, become comfortable navigating
-GitHub repositories, and understand how GitHub Pages can publish a
-website directly from a repository.
+Over the course of the week, you'll learn how documents written in Markdown become files stored in a Git repository, how those repositories are managed and shared using GitHub, and how GitHub can publish them as public websites through GitHub Pages.
 
-These skills will provide the technical foundation for later work with
-CollectionBuilder and each student's final digital library project.
+```text
+Markdown
+        ↓
+Git repository
+        ↓
+GitHub
+        ↓
+GitHub Pages
+        ↓
+Public website
+```
 
-------------------------------------------------------------------------
+Although we’ll use GitHub Pages this week to publish a simple website, this same workflow underlies many contemporary digital library projects, including CollectionBuilder, which you’ll use later in the semester to build your own digital collection. Understanding this workflow will provide the technical foundation for the remainder of the course and your final project.
 
 ## Weekly Learning Objectives
 
-By the end of this week, students should be able to:
+By the end of this week, you should be able to:
 
--   Explain the advantages of plain-text formats for digital library
-    projects.
--   Write and edit documents using basic Markdown syntax.
--   Navigate a GitHub repository and understand its organization.
--   Describe how GitHub Pages publishes static websites.
--   Explain the difference between static and database-driven web
-    applications.
--   Recognize why static-site approaches have become increasingly
-    popular for cultural heritage collections.
+* Explain the roles of Git, GitHub, GitHub Pages, and Markdown in a modern static-site publishing workflow.
+* Explain the advantages of plain-text formats and version control for digital library and digital humanities projects.
+* Create and edit documents using basic Markdown syntax.
+* Navigate a GitHub repository and identify its major components (e.g., README, folders, configuration files, and project documentation).
+* Describe how GitHub Pages publishes a static website directly from a GitHub repository.
+* Explain the differences between static and database-driven websites and identify the advantages and limitations of each approach.
+* Recognize why static-site methodologies have become increasingly popular for digital libraries, digital exhibits, and other cultural heritage projects.
 
 # Before Class
 
@@ -38,26 +38,31 @@ By the end of this week, students should be able to:
 
 ### Required
 
--   Wikle, Olivia M., and Evan Peter Williamson. *Static Web Methodology
-    as a Sustainable Approach to Digital Humanities Projects.* Code4Lib
+-   Wikle, Olivia M., and Evan Peter Williamson. [“Static Web Methodology
+    as a Sustainable Approach to Digital Humanities Projects.”](https://journal.code4lib.org/articles/18372) [*Code4Lib*](https://journal.code4lib.org)
     Journal (2025).
--   Wikle, Olivia, Evan Williamson, and Devin Becker. *What is Static
-    Web and What's it Doing in the Digital Humanities Classroom?* dh+lib
-    (2020).
+-   Wikle, Olivia, Evan Williamson, and Devin Becker. [“What is Static
+    Web and What's it Doing in the Digital Humanities Classroom?”](https://acrl.ala.org/dh/2020/06/22/what-is-static-web-and-whats-it-doing-in-the-digital-humanities-classroom) _dh+lib_ (2020).
 
-### Lib-Static
+### [Lib-Static](https://lib-static.github.ioi)
 
 Read:
 
--   Why Lib-Static?
--   Plain Text
--   Static Site Generators
--   Version Control (if available)
--   GitHub
--   Command Line
+- [Why Lib-Static?](https://lib-static.github.io/about/)
+- On the [Concepts](https://lib-static.github.io/concepts/) page read the following:
+    - [Command Line](https://lib-static.github.io/concepts/cli/);
+    - [Static Site Generators](https://lib-static.github.io/concepts/static-site-generators/);
+    - [Plain Text](https://lib-static.github.io/concepts/plaintext/).
+    - [Version Control](https://lib-static.github.io/concepts/version-control/)
+    - Explore other concepts as time permits.
 
-Explore other concepts as time permits.
+- [What is GitHub?](https://docs.github.com/en/get-started/start-your-journey/what-is-github)
+- [About Git?](https://docs.github.com/en/get-started/using-git/about-git)
+- [Basic writing and formatting syntax (Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+	
+<!--
+	
 ## Watch
 
 GitHub Skills:
@@ -67,30 +72,18 @@ GitHub Skills:
 
 (approximately 20--30 minutes total)
 
+-->
+
 ## Tasks
 
-### 1. Create a GitHub account
+### 1. Create a [GitHub](https://github.com) account
 
 If you do not already have one.
 
-### 2. Complete the GitHub Markdown tutorial
 
-Create a small Markdown document that includes:
+### 2. Explore an existing repository
 
--   headings
--   lists
--   emphasis
--   links
--   an image
--   a table
--   a code block
-
-Commit it to a GitHub repository.
-
-### 3. Explore an existing repository
-
-Browse the source code for CollectionBuilder or another open-source
-digital humanities project.
+Browse the source code for [CollectionBuilder](https://github.com/CollectionBuilder/collectionbuilder-gh) or another open-source digital humanities project.
 
 Identify:
 
@@ -102,6 +95,22 @@ Identify:
 -   assets
 
 Come prepared to discuss what each appears to do.
+
+### 3. Create Your First GitHub Page
+
+1. Create a GitHub repository.
+2. Add a README.md.
+3. Use Markdown to introduce yourself and your project interests.
+4. Include:
+    * one heading
+    * one image
+    * one table
+    * one link
+    * one code block
+    * one bulleted list
+5. Commit your changes.
+6. Enable GitHub Pages.
+7. Visit your published site.
 
 ### 4. Reflection (Canvas)
 
@@ -193,9 +202,10 @@ Working in pairs:
 
 ## Discussion
 
--   What surprised you about static websites?
--   Why are libraries increasingly adopting static approaches?
--   What tradeoffs exist compared to Omeka, Islandora, or Hyrax?
+- What surprised you about Markdown, GitHub, or static websites?
+- What advantages might plain-text files and version control offer for a digital library project?
+- What limitations or challenges might arise when publishing a digital collection as a static website?
+- What parts of this workflow still feel unclear or unfamiliar?
 
 ## Looking Ahead
 
