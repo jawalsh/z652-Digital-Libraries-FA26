@@ -1,7 +1,7 @@
 9:10 - 11:45 Friday
 Sycamore Hall (SY) 108  
 *Instructor:* Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@iu.edu](mailto:jawalsh@iu.edu), Luddy Hall 2132.  
-*Office Hours:* See <https://fantastical.app/jawalsh/office-hours> to view availability and make an appointment.  
+*Office Hours:* See <https://biblicon.short.gy/office_hours> to view availability and make an appointment.  
 John’s demo CollectionBuilder Sites: [Rock Show](https://jawalsh.github.io/rock-show/), [Rock Show repository](https://github.com/jawalsh/rock-show), [Comic Book Paratexts](https://biblicon.org/cbp/)
 
 
