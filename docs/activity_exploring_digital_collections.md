@@ -19,7 +19,7 @@ In small groups (see activity groups in the "People" section of our Canvas site)
 - Walt Whitman Archive <http://whitmanarchive.org>
 - Project Gutenberg <http://gutenberg.org/>
 - William Blake Archive <http://blakearchive.org>
-- Mark Twain Project <https://www.marktwainproject.org/homepage.html>
+- Mark Twain Project <https://www.marktwainproject.org/>
 
 ## Questions
 - What is/are the subject(s) of the collection?
