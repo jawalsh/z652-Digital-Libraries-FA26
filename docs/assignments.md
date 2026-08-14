@@ -6,7 +6,7 @@
 | ------------------------------------------------------------------------- | ------  | ---------- |
 | [Final Project Proposal](assignment_final_project_proposal.md)            | 100     | 9/24/2026  |
 | [Metadata Application Profile](assignment_metadata_application_profile.md)| 200     | draft due 10/08/2026; final due 10/22/2026 |
-| [Final Project](assignment_final_project.md)                              | 500     | 12/14/2025 |
+| [Final Project](assignment_final_project.md)                              | 500     | 12/14/2026 |
 | Lab Exercises                                                             | 100     | n/a        |
 | Participation                                                             | 100     | n/a        |
 
