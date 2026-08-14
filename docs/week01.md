@@ -44,7 +44,7 @@ The welcome video will introduce the course, explain the semester-long project, 
 - Library Technology
 	- Norwegian Broadcasting Corporation. [Medieval Helpdesk](https://youtu.be/pQHX-SjgQvQ)
 - Digital collection examples
-	- Explore some of [IU’s digital collections](https://libraries.indiana.edu/digital-collections) and some [additional examples](digital_collections_examples.md) from other institutions.
+	- Explore some of [IU’s digital collections](https://digitalcollections.iu.edu) and some [additional examples](digital_collections_examples.md) from other institutions.
 
 ### Tasks
 
