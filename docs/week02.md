@@ -37,14 +37,14 @@ Read the following overview from the U.S. Copyright Office:
   
 Review the following Cornell University Library resources. You do not need to memorize the details. Focus on understanding the factors that determine whether a work is protected by copyright or is in the public domain.
 
-- [Cornell copyright resource](https://guides.library.cornell.edu/ld.php?content_id=85076027)
+- [Copyright Term and the Public Domain in the United States](https://guides.library.cornell.edu/ld.php?content_id=85076027)
 
-- [Cornell copyright resource](https://guides.library.cornell.edu/ld.php?content_id=63936868)
+- [Checklist For Conducting A Fair Use Analysis Before Using Copyrighted Materials](https://guides.library.cornell.edu/ld.php?content_id=63936868)
 
 Browse the following resource from the Association of Research Libraries:
 
 - **Code of Best Practices in Fair Use for Academic and Research Libraries**
-  <https://www.arl.org/resources/code-of-best-practices-in-fair-use-for-academic-and-research-libraries/>
+  <https://www.arl.org/code-of-best-practices-in-fair-use-for-academic-and-research-libraries/>
 
 ### Public Domain
 
