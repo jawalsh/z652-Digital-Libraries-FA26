@@ -44,7 +44,7 @@ By the end of this week, you should be able to:
 -   Wikle, Olivia, Evan Williamson, and Devin Becker. [“What is Static
     Web and What's it Doing in the Digital Humanities Classroom?”](https://acrl.ala.org/dh/2020/06/22/what-is-static-web-and-whats-it-doing-in-the-digital-humanities-classroom) _dh+lib_ (2020).
 
-### [Lib-Static](https://lib-static.github.ioi)
+### [Lib-Static](https://lib-static.github.io)
 
 Read:
 
