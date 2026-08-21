@@ -1,4 +1,4 @@
-9:10 - 11:45 Friday
+9:10 - 11:45 Thursday
 Sycamore Hall (SY) 108  
 *Instructor:* Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@iu.edu](mailto:jawalsh@iu.edu), Luddy Hall 2132.  
 *Office Hours:* See <https://biblicon.short.gy/office_hours> to view availability and make an appointment.  
