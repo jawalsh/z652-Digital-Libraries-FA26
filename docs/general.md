@@ -21,14 +21,14 @@ By the end of the semester students will will be able to digitize a collection o
 ## Texts
 Our two textbooks are:
 
-* Witten, Bainbridge, and Nichols’ _How to Build a Digital Library_ (2010), available online through IUCAT at <http://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc>
-* Miller's _Metadata for Digital Collections_ (2022). Miller's book should be on reserve by September 1st. See IUCAT: <http://www.iucat.iu.edu/catalog/10090471>.
+* Witten, Bainbridge, and Nichols’ _How to Build a Digital Library_ (2010), available online through IUCAT at <https://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc>
+* Miller's _Metadata for Digital Collections_ (2022). Miller's book should be on reserve by September 1st. See IUCAT: <https://www.iucat.iu.edu/catalog/10090471>.
 
 ## Tools
 We will be using the following tools, software, frameworks:
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- [Oxygen XML Editor](http://oxygenxml.com)
+- [Oxygen XML Editor](https://oxygenxml.com)
 	- Available to IU students, faculty and staff through <https://iuware.iu.edu>
 - [CollectionBuilder](https://collectionbuilder.github.io)
 - [Adobe Acrobat](https://www.adobe.com/acrobat.html)
@@ -47,19 +47,18 @@ We will be using the following tools, software, frameworks:
 * [Windows Commandline Cheat Sheet by Stephen Edwards at Columbia University](https://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
 
 ### IU Resources
-* [IT Training from UITS](http://ittraining.iu.edu)
-* [IU Libraries' Digital Collections](http://dlib.indiana.edu/collections/)
+* [IT Training from UITS](https://ittraining.iu.edu)
+* [IU Libraries' Digital Collections](https://digitalcollections.iu.edu)
 * [Wednesday Noon Digital Scholarship Series](https://libraries.indiana.edu/wednesday-noon-digital-scholarship-series)
 - [Institute for Digital Arts and Humanities](https://idah.indiana.edu), especially see the [events]( https://idah.indiana.edu/news-events/) page.
-* [IU Metadata Discussion Group](https://blogs.libraries.iub.edu/metadata/)
 * LinkedIn Learning tutorials available through <https://one.iu.edu/>: Lots of great tutorials on programming, XML, Web development, and other IT topics. 
 	- We will be using the command-line tools for exercises and assignments in this class. If you are not familiar with the MacOS/Windows/Linux command line, then I urge you to view some LinkedIn Learning tutorials on using the command line for your operating system. 
 
 ### External Resources
 * [Level Up](https://mcpl.info/levelup/level-digital-creativity-center) workshops at Monroe County Public Library (MCPL)
-* [CLIR](http://www.clir.org/pubs/reports/)
-* [D-lib Magazine](http://www.dlib.org/)
-* [Digital Library Federation](http://diglib.org/) (DLF)
+* [CLIR](https://www.clir.org/pubs/reports/)
+* [D-lib Magazine](https://www.dlib.org/)
+* [Digital Library Federation](https://diglib.org/) (DLF)
 
 ## Sexual Harassment
 As your instructor, one of my responsibilities is to create a positive learning environment for all students. Title IX and IU’s Sexual Misconduct Policy prohibit sexual misconduct in any form, including sexual harassment, sexual assault, stalking, and dating and domestic violence. If you have experienced sexual misconduct, or know someone who has, the University can help.
@@ -69,4 +68,4 @@ If you are seeking help and would like to speak to someone confidentially, you c
 The Sexual Assault Crisis Services (SACS) at (812) 855-8900 (counseling services) Confidential Victim Advocates (CVA) at (812) 856-2469 (advocacy and advice services) IU Health Center at (812) 855-4011 (health and medical services)
 It is also important that you know that Title IX and University policy require me to share any information brought to my attention about potential sexual misconduct, with the campus Deputy Title IX Coordinator or IU’s Title IX Coordinator. In that event, those individuals will work to ensure that appropriate measures are taken and resources are made available. Protecting student privacy is of utmost concern, and information will only be shared with those that need to know to ensure the University can respond and assist.
 
-I encourage you to visit <http://stopsexualviolence.iu.edu/index.html> to learn more.
+I encourage you to visit <https://stopsexualviolence.iu.edu/index.html> to learn more.

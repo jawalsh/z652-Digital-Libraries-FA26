@@ -44,23 +44,13 @@ The welcome video will introduce the course, explain the semester-long project, 
 - Library Technology
 	- Norwegian Broadcasting Corporation. [Medieval Helpdesk](https://youtu.be/pQHX-SjgQvQ)
 - Digital collection examples
-	- Explore some of [IU’s digital collections](https://libraries.indiana.edu/digital-collections) and some [additional examples](digital_collections_examples.md) from other institutions.
+	- Explore some of [IU’s digital collections](https://digitalcollections.iu.edu) and some [additional examples](digital_collections_examples.md) from other institutions.
 
 ### Tasks
 
-- Complete the pre-class / technical background survey in Canvas.
-- Post an introduction to the course discussion forum. In your post, briefly introduce yourself and mention one kind of collection, archive, object, community, topic, or cultural material you might be interested in working with. You do not need to have a final project idea yet.
-- Browse at least two digital collections and complete the **Exploring Digital Collections** response activity.
-
-For the **Exploring Digital Collections** activity, choose two digital collections or digital library sites. For each one, consider:
-
-1. What kinds of objects does the collection contain?
-2. Who do you think the intended users are?
-3. What metadata is visible?
-4. What can users do with the collection? Search? Browse? Download? Cite? Reuse?
-5. What seems clear, useful, confusing, or frustrating about the interface?
-
-Submit a short response of approximately **300–500 words total**, or complete the worksheet provided in Canvas.
+- [ ] Complete the pre-class / technical background survey in Canvas.
+- [ ] Post an introduction to the **Introductions** course discussion on Canvas. In your post, briefly introduce yourself and mention one kind of collection, archive, object, community, topic, or cultural material you might be interested in working with. You do not need to have a final project idea yet.
+- [ ] Browse at least two digital collections and complete the **Exploring Digital Collections** response activity in the Canvas course discussion.
 
 ## In Class
 
