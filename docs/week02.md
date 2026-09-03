@@ -115,7 +115,7 @@ Bring **two or three possible ideas** to class.
 
 ## Slides
 
-- Week 2: Copyright, Public Domain, Rights Statements, and Final Project Scoping
+- [Week 2: Copyright, Public Domain, Rights Statements, and Final Project Scoping](https://jawalsh.github.io/Z652_reveal.js/week02_copyright.html)
 
 ---
 
