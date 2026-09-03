@@ -8,7 +8,7 @@
 * [Week 1](week01.md) _(2026-08-27)_: Introductions; What is a Digital Library?; Digital Objects; Metadata in Interfaces
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week01.html)
 * [Week 2](week02.md) _(2026-09-03)_: Copyright, Public Domain, Rights Statements, and Final Project Scoping 
-	- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week02_copyright.html)
+	- [slides](jawalsh.github.io/Z652_reveal.js/week02_copyright.html)
 * [Week 3](week03.md) _(2026-09-10)_: Markdown, GitHub, and Static Sites
 * [Week 4](week04.md) _(2026-09-17)_: CollectionBuilder Introduction <!-- AW -->
 	<!--- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week04.html)-->
