@@ -1,47 +1,110 @@
-# Week 4: Metadata 1
+# Week 4: CollectionBuilder Introduction
 
 ## Summary
-We will learn about what metadata is, different types of metadata, what it's used for, and why it's important. We will also learn about a few different major metadata application profiles (also known as schemas) commonly used in digital libraries. As we prep for writing out own metadata application profiles and building our CollectionBuilder sites more, we will also be practicing how to read and navigate documentation and how to write good documentation.
+
+This week we begin working with **CollectionBuilder**, the platform we will use to build digital collections during the semester. CollectionBuilder brings together many of the technologies introduced last week—including Markdown, GitHub, GitHub Pages, YAML, and static-site generation—and adds structured metadata and digital objects to create a functional digital collection.
+
+We will examine the structure of a CollectionBuilder repository, learn how metadata and digital objects become pages in a collection website, and begin working with a CollectionBuilder site ourselves.
+
+The goal this week is not to master CollectionBuilder. Instead, we will become familiar with its basic structure and workflow so that, as we learn more about metadata and digital libraries over the coming weeks, we can apply those concepts directly to a working collection.
 
 ## Weekly Learning Objectives
-- _define_ metadata
-- _distinguish_ between types of metadata and metadata standards
-- _identify_ relevant Dublin Core elements for a given item
-- _Reflect_ on good vs. bad documentation
-- _Learn_ to navigate documentation and troubleshoot
 
+By the end of this week, you should be able to:
 
-## Before class: Readings, resources, and tasks
-### Readings
-- Metadata basics
-  - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 1 "Introduction to Metadata for Digital Collections" (pp. 1-26) **See Canvas>Files>Readings**
-  - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 12 "Metadata Application Profile Design" (pp. 393-441) **See Canvas>Files>Readings**
-    - **Read** pp. 393-404; **skim** examples on pp. 404-441
-- Documentation
-  - [Documenting recipes](https://goodfoodstudioza.com/recipe-writing-tips)
-  - [Documenting code](https://medium.com/larimaza-en/how-to-write-good-documentation-e19c70dc67f0)
-- Dublin Core, METS, MODS, and other standards
-  <!-- - [METS overview](https://www.loc.gov/standards/mets/METSOverview.v3_en.html) -->
-  - Riley, Jenn. (2017). [Understanding Metadata: What Is Metadata, and What Is It For?](https://www.niso.org/publications/understanding-metadata-2017). Baltimore, MD: National Information Standards Organization (NISO). **only pp. 27-39**
-  - [Dublin Core Basics: The Beginners Guide](http://paladini.github.io/dublin-core-basics/)
-  - [Dublin Core Metadata Element Set](https://guides.library.ucsc.edu/c.php?g=618773&p=4306386)
-- Metadata Application Profile assignment
-  - Skim the instructions for the [metadata application profile assignment](assignment_metadata_application_profile.md)
-  - Come to class with any initial questions
+- Explain the basic purpose and architecture of CollectionBuilder.
+- Identify the major components of a CollectionBuilder repository.
+- Explain how metadata, digital objects, configuration files, and templates work together to produce a collection website.
+- Navigate and make basic changes to a CollectionBuilder project on GitHub.
+- Explain the role of the `objectid` in connecting collection metadata with digital objects.
+- Build and publish a basic CollectionBuilder site using GitHub Pages.
+- Identify connections between CollectionBuilder and the static-web technologies introduced in Week 3.
 
-### Tasks
- - READ: Please complete the readings outlined above by: Thursday, 5pm.
- - DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2333328/assignments/17891335) by: Thursday, 5pm.
+# Before Class
 
-## In class
-- Documentation
-  - [Slides](/resources/documentation.pdf)
-<!--  - [Slides](https://docs.google.com/presentation/d/1R7ty8B3odor7hhGu-Bg4jgCFIHDJhJTcs0XAKbYgRXk/edit?usp=sharing) -->
-  - [Documentation Lab](assignment_documentation_lab.md)
-- Metadata
-	- [Slides](https://biblicon.org/slides/metadata_1/)
-<!--  - [Slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing) -->
-  - [SUCHO](https://www.sucho.org/) metadata guidelines
-  - Discuss the [metadata application profile assignment](assignment_metadata_application_profile.md)
-  - [Metadata lab Part I](assignment_metadata_practice_1.md)
+## Readings and Resources
 
+### CollectionBuilder
+
+Read:
+
+- [CollectionBuilder](https://collectionbuilder.github.io/)
+- [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)
+- [CollectionBuilder-GH](https://collectionbuilder.github.io/cb-docs/docs/gh/)
+
+Browse:
+
+- [CollectionBuilder-GH repository](https://github.com/CollectionBuilder/collectionbuilder-gh)
+
+As you explore the repository and documentation, don't worry about understanding every file or configuration option. Focus on getting a general sense of:
+
+- where metadata is stored;
+- where digital objects are stored;
+- where site configuration is stored;
+- how the repository becomes a website.
+
+## Tasks
+
+### 1. Review your GitHub setup
+
+Make sure that you can:
+
+- log into GitHub;
+- create or access a repository;
+- edit a file;
+- commit changes;
+- locate the **Settings → Pages** options for a repository.
+
+### 2. Explore a CollectionBuilder site
+
+Explore one of the CollectionBuilder example projects in [CollectionBuilder Examples](https://collectionbuilder.github.io/cb-examples/), a CollectionBuilder collection of other collections. 
+
+Identify several features that appear to depend on structured metadata, such as:
+
+- item pages;
+- browse;
+- search;
+- maps;
+- timelines;
+- subjects or other facets.
+
+Come prepared to discuss what you think is happening "behind" the interface.
+
+# In Class
+
+## Topics
+
+- What is CollectionBuilder?
+- CollectionBuilder and the static-web workflow
+- Anatomy of a CollectionBuilder repository
+- Metadata and digital objects
+- `objectid` and item identification
+- Configuration files
+- From CSV data to collection interfaces
+- GitHub Pages and publishing
+
+## Hands-on Activity
+
+We will work through the basic CollectionBuilder workflow together:
+
+1. Create a CollectionBuilder project from a template.
+2. Examine the repository structure.
+3. Locate the collection metadata and digital objects.
+4. Configure basic information about the collection.
+5. Publish the site with GitHub Pages.
+6. Make a small change to the collection and observe how it changes the published site.
+
+The goal is to leave class with a working CollectionBuilder site that we can use for experiments as we learn additional digital-library concepts.
+
+## Discussion
+
+- How is a CollectionBuilder repository different from the simple GitHub Pages site you created last week?
+- Which parts of the collection are **data**, which are **content**, and which are **configuration**?
+- What aspects of the public interface appear to be generated from metadata?
+- What advantages and limitations can you already see in using a static-site approach for digital collections?
+
+## Looking Ahead
+
+Next week we begin **Metadata I: Metadata Fundamentals and Dublin Core**.
+
+CollectionBuilder has already shown us that metadata does much more than provide labels for digital objects: it structures item pages, search, browse, and other forms of discovery. Next week we'll step back from the software and examine what metadata is, what purposes it serves in digital libraries, and how the **Dublin Core** standard provides a common vocabulary for describing digital resources.
