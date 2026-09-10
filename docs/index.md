@@ -10,6 +10,7 @@
 * [Week 2](week02.md) _(2026-09-03)_: Copyright, Public Domain, Rights Statements, and Final Project Scoping 
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week02_copyright.html)
 * [Week 3](week03.md) _(2026-09-10)_: Markdown, GitHub, and Static Sites
+	- [slides](https://jawalsh.github.io/Z652_reveal.js/week03_markdown_github.html) 
 * [Week 4](week04.md) _(2026-09-17)_: CollectionBuilder Introduction <!-- AW -->
 	<!--- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week04.html)-->
 * [Week 5](week05.md) _(2026-09-24)_: Metadata I: Metadata Fundamentals and Dublin Core <!-- AW -->

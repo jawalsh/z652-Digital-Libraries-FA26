@@ -129,6 +129,8 @@ Discuss:
 
 # In Class
 
+- [slides](https://jawalsh.github.io/Z652_reveal.js/week03_markdown_github.html) 
+
 ## Lecture
 
 ### Markdown
@@ -176,7 +178,7 @@ HTML
 GitHub Pages
 ```
 
-### Case Study
+### Preivew
 
 CollectionBuilder
 
