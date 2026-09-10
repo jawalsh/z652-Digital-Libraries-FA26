@@ -29,8 +29,7 @@ By the end of this week, you should be able to:
 Read:
 
 - [CollectionBuilder](https://collectionbuilder.github.io/)
-- [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)
-- [CollectionBuilder-GH](https://collectionbuilder.github.io/cb-docs/docs/gh/)
+- Brows the [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/), particularly the [CollectionBuilder-GH Walkthrough](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/gh-walkthrough/). CollectionBuilder-GH is the version of CollectionBuilder we’ll use for final projects.
 
 Browse:
 
