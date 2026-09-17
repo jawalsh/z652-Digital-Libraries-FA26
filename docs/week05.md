@@ -42,10 +42,10 @@ As you read, focus on the purposes metadata serves rather than trying to memoriz
 
 Read and explore:
 
-- [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
 - [Dublin Core Metadata Element Set, Version 1.1](https://www.dublincore.org/specifications/dublin-core/dces/)
+- [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
 
-Pay particular attention to the fifteen elements in the Dublin Core Metadata Element Set. You do not need to memorize them.
+Pay particular attention to the fifteen elements in the Dublin Core Metadata Element Set, Version 1.1. You do not need to memorize them.
 
 ### Metadata Application Profiles
 
