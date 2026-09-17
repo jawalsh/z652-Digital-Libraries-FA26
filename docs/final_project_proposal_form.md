@@ -1,33 +1,56 @@
 # Z652 Digital Libraries
-## Project Proposal Form
-
+## Final Project Proposal
 
 **Your Name:**  
+**Project Name:**
 
-**Project Name:**  
+### 1. Project Description
+
+Briefly describe the digital collection you propose to create. What materials will it contain, and what will the completed project make possible for users?
 
 
-1.	Describe your project.
+### 2. Significance
 
-2.	Describe the significance of this project.  Will this project complement or enhance other existing resources? Include links to related and complementary resources.
+Why is this collection worth creating? Briefly identify any existing digital collections or resources that are similar, related, or complementary. Include links when appropriate.
 
-3.	Describe the target audience(s) for this project, current and potential users. 
 
-4.	Describe types (media) of materials to be digitized and the number of each type (e.g. 12 letters (31 pages total); 14 photographs; 1 audio tape).  Include format, condition, and any special handling requirements.  
+### 3. Audience
 
-5.	If the items to be digitized are held by an institution (e.g., IU Libraries, IU Archives of Traditional Music, Monroe County Historical Society), explain your collaboration and agreement with the institution for conducting this project.
+Who are the intended users of the collection? What might they want to find, learn, or do with it?
 
-6.	Do you have any existing descriptive information (i.e., metadata) that could be used for searching these materials? What descriptive information do you currently have (e.g., title, creator, date)? In what form does this descriptive information exist (on paper, in a Word document, in an Excel file, etc.)
 
-7.	Describe your personal interest in and possible contribution to this project.
+### 4. Collection and Access
 
-8.	Other general comments, issues or concerns.
+Describe the materials you expect to include, including types and approximate quantities (for example, 12 letters comprising 31 pages; 14 photographs; 6 posters).
 
-9.	Indicate copyright status. Please refer to Cornell’s Copyright Information Center (https://copyright.cornell.edu/ and especially https://copyright.cornell.edu/publicdomain) for information to help you determine the copyright status of your materials.  Below, please explain your understanding of the copyright status of the material.
+Where are the materials currently located, and how will you obtain or create the digital files?
+
+If the materials belong to or are held by another person or institution, describe any arrangements needed for access or digitization.
+
+
+### 5. Existing Descriptive Information
+
+What descriptive information already exists for the materials? For example, you might already have titles, creators, dates, subjects, identifiers, descriptions, or other information about the items.
+
+Where does this information currently exist (for example, on the objects themselves, in a finding aid, spreadsheet, database, website, or other source)?
+
+**You do not need to design the metadata for your collection yet.** We will develop your metadata approach during the metadata portion of the course.
+
+
+### 6. Rights and Copyright
+
+Based on our work on copyright and rights, what is your current understanding of the copyright status of the materials? Check all that apply.
 
 - [ ] Public domain
-- [ ] Owned and controlled by you 
-- [ ] Owned by someone else, but permission secured
-- [ ] Situation unknown or unclear
+- [ ] Copyright owned or controlled by me
+- [ ] Copyrighted; permission has been or will be obtained
+- [ ] Copyrighted; use may be justified by fair use
+- [ ] Copyright status requires further investigation
+- [ ] Other / mixed
 
-Copyright explanation:
+Briefly explain your assessment. Identify any uncertainties and, if necessary, what additional investigation you need to undertake.
+
+
+### 7. Questions, Concerns, or Other Information (Optional)
+
+Identify anything about the proposed project that you are currently uncertain about or would particularly like feedback on. You may also include any other information that would help us understand your proposed project.
