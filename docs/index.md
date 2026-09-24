@@ -14,7 +14,7 @@
 * [Week 4](week04.md) _(2026-09-17)_: CollectionBuilder Introduction <!-- AW -->
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week04_collectionbuilder.html)
 * [Week 5](week05.md) _(2026-09-24)_: Metadata I: Metadata Fundamentals and Dublin Core <!-- AW -->
-	<!--- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week05.html)-->
+	- [slides](https://jawalsh.github.io/Z652_reveal.js/week05_metadata1.html)
 * [Week 6](week06.md) _(2026-10-01)_: Metadata II: Controlled Vocabularies, Value Standards, and Metadata Application Profiles (MAPs)
 * [Week 7](week07.md) _(2026-10-08)_: Metadata Studio / MAP Workshop / Project Consultation
 * [Week 8](week08.md) _(2026-10-15)_: From CollectionBuilder to Enterprise Digital Libraries + Project Lab
