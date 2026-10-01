@@ -1,14 +1,16 @@
 # Rubric: Metadata Application Profile (MAP)
 
-This assignment evaluates your ability to design, document, and justify a metadata schema tailored to your digital collection’s users, content, and functional needs.
+This assignment evaluates your ability to design, document, and justify a metadata schema tailored to your digital collection’s context, content, users, and goals.
 
 ## Component Criteria
 
-### 1. Context, Users, and Functional Requirements
-- Clearly and fully describes the **context**, **content**, and **intended users** of the collection.
-- Identifies **specific functional requirements** that guide metadata decisions.
-- Draws **clear connections** between functional requirements and the metadata elements included in the profile.
-- Demonstrates thoughtful reflection on how metadata can support user access, discovery, and use.  
+### 1. Project Introduction
+- Clearly introduces the **digital collection or project** and provides sufficient background for understanding the metadata application profile.
+- Describes the **content and scope** of the collection, including relevant information about the types of materials, subject matter, date range, or other characteristics.
+- Identifies the **intended or likely users** of the collection and, where relevant, how they may find, browse, understand, or use the materials.
+- Provides relevant **context** for the project, such as its purpose, institutional setting, relationship to other collections or projects, or intended use.
+- Provides a clear foundation for understanding the metadata choices documented in the remainder of the MAP.
+
 **(40 points)**
 
 ### 2. Element Selection and Documentation
@@ -16,13 +18,13 @@ This assignment evaluates your ability to design, document, and justify a metada
 - Includes at least **two visualization elements** and one or more relevant **optional fields**.
 - Introduces at least one **custom metadata field**, with a clear justification.
 - For each element, provides complete documentation including:
-  - obligation  
-  - cardinality  
-  - content guidelines  
-  - applicable **controlled vocabularies** or **syntax encoding schemes** (with links)  
-  - **Dublin Core mapping**  
-  - illustrative example(s)  
-  - notes (if relevant)  
+  - obligation
+  - cardinality
+  - content guidelines
+  - applicable **controlled vocabularies** or **syntax encoding schemes** (with links)
+  - **Dublin Core mapping**
+  - illustrative example(s)
+  - notes (if relevant)
 - Documentation is complete, precise, and clearly tailored to the project’s content and goals.
 
 <!-- required
@@ -49,12 +51,15 @@ This assignment evaluates your ability to design, document, and justify a metada
 - `rights`
 - `rightsstatement`
 -->
+
 **(40 points)**
 
 ### 3. Alignment and Coherence
-- Metadata choices are **well aligned** with the collection’s users and content.
+- Metadata choices are **well aligned** with the collection’s context, content, users, and goals.
+- Selected elements are appropriate for describing and providing access to the materials in the collection.
 - Design reflects an understanding of how metadata structure, semantics, and encoding affect system behavior and user experience.
-- Element specifications (e.g., vocabulary choices, content guidelines) support the stated functional requirements and reflect professional standards.  
+- Element specifications (e.g., vocabulary choices, content guidelines, obligation, and cardinality) are internally consistent, appropriate to the collection, and reflect relevant professional standards.
+
 **(40 points)**
 
 ### 4. Structure and Professional Presentation
@@ -62,13 +67,15 @@ This assignment evaluates your ability to design, document, and justify a metada
 - Appropriate use of **headings**, **tables**, and **lists**.
 - Links to standards are included and functioning.
 - Typography and formatting support clarity and navigation.
-- Could reasonably be used by another team member or stakeholder to implement metadata consistently.  
+- Could reasonably be used by another team member or stakeholder to implement metadata consistently.
+
 **(40 points)**
 
 ### 5. Writing Quality and Mechanics
 - Writing is clear, professional, and free of distracting grammar, punctuation, or typographic errors.
 - Terminology is used accurately; citations or links to external resources are complete and properly formatted.
-- The overall tone and structure reflect graduate-level work in digital libraries or digital scholarship.  
+- The overall tone and structure reflect graduate-level work in digital libraries or digital scholarship.
+
 **(40 points)**
 
 ---
