@@ -76,13 +76,15 @@ Topics may include:
 
 You will exchange your MAP with a classmate. Peer review will focus on **using and testing** the profile rather than simply proofreading it.
 
+- [Metadata Application Profile (MAP) Peer Review Instructions](peer_review_map.md)
+
 ### Part 1: Read the MAP as documentation
 
 Without an explanation from the author, review the profile and identify:
 
 - fields whose purpose is unclear;
 - definitions that could be interpreted in more than one way;
-- missing obligation or cardinality information;
+- missing or incomplete documentation;
 - value rules that are incomplete or inconsistent;
 - places where examples would help.
 
@@ -90,27 +92,13 @@ Without an explanation from the author, review the profile and identify:
 
 Use your partner's MAP to describe one or more sample objects.
 
-As you work, record places where you have to ask questions such as:
-
-- Which field should contain this information?
-- Is this field required?
-- Can I enter more than one value?
-- Which term should I use?
-- What format should this date/name/identifier take?
-- Should I transcribe what appears on the object or normalize it?
-- What should I do when the information is unknown?
-
-Those questions reveal places where the application profile may need stronger documentation.
+As you work, pay particular attention to places where you are unsure how to apply the MAP. These questions reveal places where the application profile may need stronger documentation.
 
 ### Part 3: Peer feedback
 
-Provide your partner with specific feedback addressing:
+Discuss your experience using the MAP with your partner. Identify what is already clear and usable, what was difficult or ambiguous, and the highest-priority revisions before submission.
 
-1. **What is already clear and usable?**
-2. **What was difficult or ambiguous when you tried to apply the MAP?**
-3. **What important metadata seems to be missing?**
-4. **Which rules need clarification or examples?**
-5. **What are the highest-priority revisions before submission?**
+**Follow the [peer-review instructions](LINK-TO-INSTRUCTIONS) for the complete review and testing process.**
 
 The author should then have an opportunity to explain decisions and ask follow-up questions.
 
