@@ -1,53 +1,96 @@
-# Week 8: Image Objects 2
+# Week 8: From CollectionBuilder to Enterprise Digital Libraries + Project Lab
 
 ## Summary
-This week we will learn about:
-- International Image Interoperability Framework (IIIF) and software tools that support IIIF.
+
+In Weeks 4–7, we built a CollectionBuilder site and learned how to design and document metadata for a small digital collection. This week we ask how a large research library manages **millions of digital objects**, multiple contributors, preservation requirements, and sophisticated discovery services.
+
+We will survey the components of enterprise digital library systems, including **repositories, databases, object storage, search indexes, web interfaces, and preservation services**. We'll introduce software such as Fedora, Samvera/Hyrax, Solr, and PostgreSQL. Our goal is to understand how the components fit together—not to install or administer them. The second half of class will be a **project lab**.
 
 ## Weekly Learning Objectives
-- *explain* the purpose of IIIF
-- *identify* use cases for IIIF functionality in digital libraries and digital scholarly projects
-- *use* a IIIF-enabled image viewer
-- *install* and *run* the [cantaloupe](https://cantaloupe-project.github.io/) IIIF image server.
- 
-## Before class: Readings, resources, and tasks
 
-### Readings
-More digitization guidelines and best practices:
-- Federal Agencies Digital Guidelines Initiative. [Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Files](http://www.digitizationguidelines.gov/guidelines/FADGI%20Federal%20%20Agencies%20Digital%20Guidelines%20Initiative-2016%20Final_rev1.pdf)
-- Library of Congress. [Technical Standards for Digital Conversion Of Text and Graphic Materials](http://memory.loc.gov/ammem/about/techStandards.pdf)
-International Image Interoperability Framework (IIIF)
-- Wikipedia. [International Image Interoperability Framework](https://en.m.wikipedia.org/wiki/International_Image_Interoperability_Framework)
-- O’Hearn, Meg (2020). <https://youtu.be/wVjrqsqzwNI>
-- Rabun, Sheila. “[What is IIF?](https://youtu.be/8LiNbf4ELZM)” 
-- [Everything you ever wanted to know about IIIF…](https://www.slideshare.net/mobile/Cogapp/everything-you-ever-wanted-to-know-about-iiif-but-were-too-afraid-to-ask)
+By the end of this week, you should be able to:
 
-Images in research
-- Lorang, E., Leen-Keat, S., Datla, M. V., & Kulwicki, S. (2015). “[Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections](http://www.dlib.org/dlib/july15/lorang/07lorang.html).”
+- *identify* the major layers of an enterprise digital library architecture.
+- *distinguish* repositories, databases, object storage, search indexes, and public interfaces.
+- *describe* the roles of Fedora, Samvera/Hyrax, Solr, and PostgreSQL.
+- *explain* basic ingest, derivative generation, indexing, access, and preservation workflows.
+- *compare* enterprise repository systems with CollectionBuilder's static-site approach.
+- *identify* and work toward concrete milestones for your final project.
 
-### Tasks
-- READ: Please complete the readings outlined above by: Thursday, 5pm.
-- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2333328/assignments/17891338) by: Thursday, 5pm.
+# Before Class
 
-### Reference links
-- [Universal Viewer](https://github.com/UniversalViewer/universalviewer) (IIIF Viewer)
-- IU Projects using IIIF
-	- [Charles W. Cushman Kodachrome Slides](https://digitalcollections.iu.edu/collections/2801pg36g?locale=en)
-	- [University Archives Digital Collections](https://digitalcollections.iu.edu/collections/g732d9039?locale=en)
-	- [Richard G. Lugar Senatorial Papers](https://collections.libraries.indiana.edu/lugar/?tags=Costa+Rica&output=omeka-xml)
-- Other examples:
-	- [E-Codices - Virtual Manuscript Library of Switzerland](https://www.e-codices.unifr.ch/en/list/one/csg/1092)
-	
- 
-## In class
+## Readings and Resources
 
-- [slides](https://jawalsh.github.io/Z652_reveal.js/week08.html)
-- [API worksheet](APIs.html)
-- [CBML/IIIF Demo](https://biblicon.org/fc15)
-- Stephens, Owen. (2016). “[Introduction to APIs Using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/). _Overdue Ideas_. <http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/>
-	- _Optional:_ Try the above tutorial with some comic book page images:
-		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_01.tif/full/max/0/default.jpg>
-		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_02.tif/full/max/0/default.jpg>
-		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_03.tif/full/max/0/default.jpg>
-- _Optional:_ Try installing [cantaloupe](https://cantaloupe-project.github.io) IIIF image server on your own machine.
-- [Next week](week09.md)
+### Required: Repository Architecture
+
+Read:
+
+- Banerjee, Kyle, and Terry Reese Jr. *Building Digital Libraries*, 2nd ed. (2019), **Chapter 2, “Choosing a Repository Architecture.”** Available as an eBook through [IUCAT eBook](https://iucat.iu.edu/catalog/19362782).
+
+Focus on the decisions involved in choosing and organizing a repository architecture: which functions a repository needs to support, how components relate, and how an institution's requirements affect technology choices. You do not need to memorize particular products or configurations.
+
+### Brief Software Exploration
+
+Browse (approximately 10–15 minutes total):
+
+- [Fedora Repository](https://fedorarepository.org/) — repository software.
+- [Hyrax](https://hyrax.samvera.org/) — a repository application in the [Samvera](https://samvera.org/) ecosystem.
+
+Compare these systems with [CollectionBuilder](https://collectionbuilder.github.io/). Focus on the kinds of problems each is designed to solve, rather than implementation details.
+
+### Optional Background and References
+
+- Witten, Ian H., David Bainbridge, and David M. Nichols. *How to Build a Digital Library*, 2nd ed. (2010), **Chapter 7, §§7.3–7.6**, for additional background on object identification, web services, security, and repository systems. [IUCAT access](https://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc). Some software descriptions are dated.
+- [Apache Solr](https://solr.apache.org/), [PostgreSQL](https://www.postgresql.org/), [DSpace](https://dspace.lyrasis.org/), and [Archivematica](https://www.archivematica.org/) — reference sites, not assigned readings.
+
+## Tasks
+
+### 1. Think about scale
+
+Consider what would need to change if your CollectionBuilder collection contained one million objects, required several librarians to edit records simultaneously, or had to be preserved for decades. Bring **one question** about enterprise digital libraries to class.
+
+### 2. Prepare for the project lab
+
+Bring your MAP, your collection materials, and access to your CollectionBuilder repository. Identify **two or three specific tasks** you can accomplish during lab time.
+
+# In Class
+
+## Topics
+
+- CollectionBuilder and the architecture of a static digital collection
+- Enterprise digital library architecture
+- Digital repositories: Fedora
+- Repository applications: Samvera and Hyrax
+- Relational databases: PostgreSQL
+- Search indexes: Solr and OpenSearch
+- File and object storage
+- Ingest, derivatives, metadata, and preservation workflows
+- IIIF, APIs, and interoperability (overview)
+- Institutional staffing and infrastructure
+
+## Architecture Activity
+
+Map your CollectionBuilder project onto the enterprise architecture we discuss. Where do your metadata, objects, presentation, and search functions reside? What additional services would a large institution require?
+
+## Project Lab
+
+Use the remainder of class to work on your final collection. Possible tasks include:
+
+1. Revise metadata records using your MAP and peer-review feedback.
+2. Organize digital objects and check filenames and `objectid` values.
+3. Update and test your CollectionBuilder site.
+4. Identify and resolve technical problems with instructor assistance.
+5. Document remaining work and priorities.
+
+Before leaving, record what you completed and your next steps.
+
+## Discussion
+
+- What does a digital repository do that a folder of files does not?
+- Why do institutions separate storage, metadata management, and search?
+- What advantages does CollectionBuilder offer for a small collection?
+- What new requirements arise when a digital collection must be maintained for decades?
+
+## Looking Ahead
+
+Next week we focus on **image objects**: raster and vector graphics, formats, resolution, and the distinction between preservation masters and access derivatives. These concepts will help explain the storage and delivery requirements introduced today.

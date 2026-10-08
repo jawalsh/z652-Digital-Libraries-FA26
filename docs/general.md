@@ -19,10 +19,11 @@ By the end of the semester students will will be able to digitize a collection o
 	- perform Optical Character Recognition (OCR) on a set of image files.
 
 ## Texts
-Our two textbooks are:
+Our three textbooks are:
 
+* Banerjee and Reese’s _Building Digital Libraries : A How-To-Do-It Manual For Librarians_ (2019), availalbe online through IUCAT at <https://iucat.iu.edu/catalog/19362782>.
 * Witten, Bainbridge, and Nichols’ _How to Build a Digital Library_ (2010), available online through IUCAT at <https://kg6ek7cq2b.search.serialssolutions.com/?V=1.0&L=KG6EK7CQ2B&S=JCs&C=TC0000298940&T=marc>
-* Miller's _Metadata for Digital Collections_ (2022). Miller's book should be on reserve by September 1st. See IUCAT: <https://www.iucat.iu.edu/catalog/10090471>.
+* Miller's _Metadata for Digital Collections_ (2022), available online through IUCAT at <https://iucat.iu.edu/catalog/21925312>.
 
 ## Tools
 We will be using the following tools, software, frameworks:
