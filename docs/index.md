@@ -16,8 +16,9 @@
 * [Week 5](week05.md) _(2026-09-24)_: Metadata I: Metadata Fundamentals and Dublin Core <!-- AW -->
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week05_metadata1.html)
 * [Week 6](week06.md) _(2026-10-01)_: Metadata II: Controlled Vocabularies, Value Standards, and Metadata Application Profiles (MAPs)
-* 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week06_metadata2.html)
+	- [slides](https://jawalsh.github.io/Z652_reveal.js/week06_metadata2.html)
 * [Week 7](week07.md) _(2026-10-08)_: Metadata Studio / MAP Workshop / Project Consultation
+- [slides](https://jawalsh.github.io/Z652_reveal.js/week07_metadata_studio.html)
 * [Week 8](week08.md) _(2026-10-15)_: From CollectionBuilder to Enterprise Digital Libraries + Project Lab
 * [Week 9](week09.md) _(2026-10-22)_: Image Objects I: Raster & Vector Graphics, File Formats, Preservation and Access <!-- AW -->
 * [Week 10](week10.md) _(2026-10-29)_: Image Objects II: Image Processing, IIIF, and Interoperability
