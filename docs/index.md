@@ -20,6 +20,7 @@
 * [Week 7](week07.md) _(2026-10-08)_: Metadata Studio / MAP Workshop / Project Consultation
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week07_metadata_studio.html)
 * [Week 8](week08.md) _(2026-10-15)_: From CollectionBuilder to Enterprise Digital Libraries + Project Lab
+	- [slides](https://jawalsh.github.io/Z652_reveal.js/week08_enterprise_digital_libraries.html)
 * [Week 9](week09.md) _(2026-10-22)_: Image Objects I: Raster & Vector Graphics, File Formats, Preservation and Access <!-- AW -->
 * [Week 10](week10.md) _(2026-10-29)_: Image Objects II: Image Processing, IIIF, and Interoperability
 * [Week 11](week11.md) _(2026-11-05)_: Text Objects I: XML, Markup, and TEI
