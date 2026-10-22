@@ -77,7 +77,7 @@ If your project contains images, consider whether you need to create additional 
 
 ## Hands-on Activity
 
-Working with sample images, we will:
+Working with [sample images](resources/image_file_comparison_activity.zip), we will:
 
 1. Inspect file types, dimensions, and file sizes.
 2. Compare different image resolutions and compression settings.
