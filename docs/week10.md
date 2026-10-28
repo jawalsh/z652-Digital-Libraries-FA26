@@ -66,7 +66,7 @@ Explore [Mirador](https://projectmirador.org/) or a digital collection with a II
 
 - Preservation masters and access derivatives (review)
 - Resizing, cropping, and format conversion
-- ImageMagick and batch processing
+- ImageMagick and batch processing. See [sample_images](https://indiana.sharepoint.com/:u:/s/msteams_36a456/IQBgm1g0JuQcR4wSo0tU16XZARWxDe6wTEMRchdh_aEfv3I?e=RQzXTT).
 - Reproducible image workflows
 - IIIF architecture and use cases
 - IIIF Image API and Presentation API
