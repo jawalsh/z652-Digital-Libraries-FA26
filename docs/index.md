@@ -24,6 +24,7 @@
 * [Week 9](week09.md) _(2026-10-22)_: Image Objects I: Raster & Vector Graphics, File Formats, Preservation and Access 
 	- [slides](https://jawalsh.github.io/Z652_reveal.js/week09_image_objects1.html)
 * [Week 10](week10.md) _(2026-10-29)_: Image Objects II: Image Processing, IIIF, and Interoperability
+	- [slides](https://jawalsh.github.io/Z652_reveal.js/week10_image_objects2.html)
 * [Week 11](week11.md) _(2026-11-05)_: Text Objects I: XML, Markup, and TEI
 * [Week 12](week12.md) _(2026-11-12)_: Text Objects II: OCR, Character Encoding, and Text Digitization
 * [Week 13](week13.md) _(2026-11-19)_: CollectionBuilder: Configuration, Metadata Integration, and Customization
