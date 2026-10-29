@@ -88,6 +88,10 @@ Using sample images, we will:
 
 We will examine a IIIF-enabled image and trace the roles of the source image, image server, API requests, and viewer. The goal is to understand the workflow, **not** to deploy an image server.
 
+## Hands-on Activity: Introduction to APIs Using IIIF
+
+See [Introduction to APIs Using IIIF](iiif_api_spreadsheet_activity.md).
+
 ## Discussion
 
 - Why automate image processing rather than editing each image separately?
