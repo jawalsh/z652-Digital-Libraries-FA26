@@ -40,7 +40,8 @@ For all fields specify:
 - obligation
 - cardinality
 - content guidelines
-- applicable controlled vocabularies or syntax encoding schemes (with links)
+- applicable controlled vocabularies (with links)
+- applicable syntax encoding schemes (with links)
 - mapping to Dublin Core
 - notes, if relevant
 - examples
