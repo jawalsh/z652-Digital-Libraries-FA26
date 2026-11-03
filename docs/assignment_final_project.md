@@ -17,6 +17,7 @@ Develop a prototype CollectionBuilder site that meets the following criteria:
 - Each item includes all appropriate required and optional CollectionBuilder metadata elements (see <https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/>); 
 - Metadata conforms to specifications outlined in the [CollectionBuilder][cb] documentation and to previously established metadata guidelines for your project;
 - Site includes one or more pages, in addition to the standard CollectionBuilder pages, that introduces the content and context of the collection. See <https://collectionbuilder.github.io/cb-docs/docs/pages/interpretive/> and <https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/>;}
+- Site includes one or more advanced customization features, such as word cloud pages, TimelineJS, custom CSS, or custom fonts. See <https://collectionbuilder.github.io/cb-docs/docs/add-more/>.
 
 ### 2. Evaluation memo
 
@@ -24,21 +25,21 @@ Based on your experience implementing this prototype collection, submit a short 
 
 ### 3. Video presentation
 
-Submit a 5-7 minute video presentation of about your final project posted to the “Final Project Presentation” discussion. In your video presentation you should 
+Submit a 4-6 minute video presentation of about your final project posted to the “Final Project Presentation” discussion. In your video presentation you should 
 - provide a brief overview of the content, significance, and audience of your collection; 
 - show one or more items from your collection and discuss the metadata, especially additional metadata fields (beyond the standard CollectionBuilder fields) that you used in your collection;
 - demonstrate contextual pages and exhibits that you created
 - demonstrate one or more advanced features that you implemented;  
 - discuss any challenges, accomplishments, or discoveries that occurred during the development of your project.
 
-**_Your presentation must not exceed 7 minutes._**
+**_Your presentation must not exceed 6 minutes._**
 
 ## Deliverables
 
 In Canvas, submit:
 
 1. In the [final project assignment](https://iu.instructure.com/courses/2333328/assignments/17891343) in Canvas, submit your short memo (item 2 above _**and inlcude a link to your CollectionBuilder site (item 1 above) in the memo**_.
-2. In the [Final Project Presentation](https://iu.instructure.com/courses/2333328/assignments/17891332) discussion on Canvas, include a link to a 5-7 minute video presentation (item 3 above) about your final project.
+2. In the [Final Project Presentation](https://iu.instructure.com/courses/2333328/assignments/17891332) discussion on Canvas, include a link to a 4-6 minute video presentation (item 3 above) about your final project.
 
 ## Criteria for Success
 
