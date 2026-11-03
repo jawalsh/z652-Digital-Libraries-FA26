@@ -110,3 +110,5 @@ By the end of this week, aim to have:
 - specific remaining problems identified for the Week 14 deployment and troubleshooting session.
 
 Continue expanding and checking your collection after class. Use the final project assignment to guide the scope and required components of your submission.
+
+For the final project, you will also create a short recorded video walkthrough of your collection. The video will introduce your collection, demonstrate its principal features, and explain important design decisions. We will discuss expectations in more detail during Week 14.

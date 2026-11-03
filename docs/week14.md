@@ -125,3 +125,13 @@ By the end of this week, aim to have:
 Prepare a brief demonstration of your collection for our final class meeting on December 10. You should be ready to introduce the collection, explain its purpose and intended audience, demonstrate its principal features, and discuss one significant design decision or challenge.
 
 Continue developing and testing your project, using the final project assignment and rubric to guide your priorities.
+
+
+### Preparing Your Video Presentation
+
+For our final week, you will prepare a **4–6-minute recorded walkthrough** of your CollectionBuilder site. The presentation should introduce your collection and intended audience, demonstrate its organization and principal features, and explain some of your decisions about metadata, navigation, and contextualization.
+
+A simple screen recording with narration is sufficient. You do not need to create slides or produce an elaborate video.
+
+Your video should be available for classmates to view before our final meeting. See the Week 15 page for additional details.
+
