@@ -62,12 +62,13 @@ We will also review the roles of CSV, YAML, Markdown, and HTML and common format
 
 ### Metadata Integration and Verification
 
-Using your own project materials:
+Using your own project materials work on the following tasks, as time allows:
 
 - Export your metadata spreadsheet as a UTF-8 CSV and add it to the appropriate location in your repository.
 - Configure the site to use your metadata file.
 - Check that object identifiers, filenames, and paths match the collection files or URLs.
-- Compare sample records with your MAP, checking required fields, repeated values, and formatting conventions.
+- Compare sample records with your MAP, checking required fields, repeated values, and formatting conventions. 
+	- Update your MAP or your metadata to make sure they are consistent.
 - Inspect the resulting item pages, browse interface, and search results.
 - Configure which metadata fields appear and how they are labeled.
 - Check whether metadata supports any enabled maps, timelines, or other browsing features.
@@ -96,7 +97,7 @@ Prioritize:
 3. Configuring useful metadata display and navigation.
 4. Developing contextual and interpretive content.
 
-Ask a classmate to try finding an item and understanding its description without an explanation from you. Use any difficulties they encounter to guide revisions.
+Feel free to work collaboratively during lab time. Help one another troubleshoot problems, share solutions and ideas, and ask classmates to test features or provide feedback on your collections. The instructors will also be available for questions and individual assistance.
 
 ## Project Progress
 
