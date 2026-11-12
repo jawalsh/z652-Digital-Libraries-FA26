@@ -4,12 +4,11 @@ In this lab, you will use optical character recognition (OCR) to produce machine
 
 ## Tools
 
-Use both:
+Test the following tools:
 
+- **[OCRSpace](https://ocr.space)
 - **Adobe Acrobat Pro**
 - **Tesseract**
-
-Optionally, try an online OCR service as a third comparison. Use only the supplied samples or other material appropriate for uploading to an external service; do not upload private or sensitive documents.
 
 ## Sample Images
 
