@@ -15,9 +15,9 @@ Optionally, try an online OCR service as a third comparison. Use only the suppli
 
 Perform OCR on each of the following:
 
-- [Swinburne. _Poems_. 1904.](images/swinburne.tif)
-- [“Kid Colt’s Roundup” (fan mail).](images/kid_colt.jpg) _Kid Colt Outlaw_ #122. May 1965.
-- William Carlos Williams. _Pictures from Brueghel_. Manuscript. YCAL MSS 116. Beinecke Rare Book and Manuscript Library, Yale University. Use the image supplied for this lab.
+- [Swinburne. _Poems_. 1904.](images/swinburne_sm.jpg)
+- [“Kid Colt’s Roundup” (fan mail).](images/kid_colt_sm.jpg) _Kid Colt Outlaw_ #122. May 1965.
+- [William Carlos Williams. _Pictures from Brueghel_. Manuscript](images/williams_sm.jpg). From  [YCAL MSS 116. Beinecke Rare Book and Manuscript Library, Yale University](https://collections.library.yale.edu/catalog/2003526).
 
 If you have scans of textual content for your final project, try one or more of your own images as well.
 
