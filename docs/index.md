@@ -28,6 +28,7 @@
 * [Week 11](week11.md) _(2026-11-05)_: Text Objects I: XML, Markup, and TEI
 	- [slides](https://jawalsh.github.io/Z652_reveal.js//week11_text_objects1.html)
 * [Week 12](week12.md) _(2026-11-12)_: Text Objects II: OCR, Character Encoding, and Text Digitization
+	- [slides](https://jawalsh.github.io/Z652_reveal.js//week12_text_objects2.html)
 * [Week 13](week13.md) _(2026-11-19)_: CollectionBuilder: Configuration, Metadata Integration, and Customization
 * **Thanksgiving Break** 🦃 _(2026-11-26)_
 * [Week 14](week14.md) _(2026-12-03)_: CollectionBuilder: Deployment, Advanced Features, and Troubleshooting Studio
