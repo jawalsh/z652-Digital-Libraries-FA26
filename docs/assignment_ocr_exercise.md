@@ -6,7 +6,7 @@ In this lab, you will use optical character recognition (OCR) to produce machine
 
 Test the following tools:
 
-- **[OCRSpace](https://ocr.space)
+- **[OCRSpace](https://ocr.space)**
 - **Adobe Acrobat Pro**
 - **Tesseract**
 
@@ -78,12 +78,14 @@ Choose one problematic image and try one adjustment, such as cropping a text reg
 
 ## Submission
 
+**To submit all files, you may need to bundle them all in a single `.zip` file.**
+
 In Canvas, submit:
 
 1. **A brief comparison table:** one row per sample image, identifying its main challenges and the relative strengths and weaknesses of Acrobat and Tesseract.
-2. **Two or three paragraphs:** explain the most significant differences, include specific error examples, describe the adjustment you tried, and assess whether the results would be sufficient for keyword searching or would require further correction.
+2. **One or two paragraphs:** explain the most significant differences, include specific error examples, describe the adjustment you tried, and assess whether the results would be sufficient for keyword searching or would require further correction.
 3. **The Tesseract `.txt` output files** for the three supplied images.
 
 If you tested an image from your final project, briefly explain what you learned about processing that material.
 
-You are evaluating the OCR output; you do not need to correct all of it.
+You are evaluating the OCR output; you do not need to correct it.
